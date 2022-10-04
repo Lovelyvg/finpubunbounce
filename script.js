@@ -1,4 +1,4 @@
-<script type"text/javascript>// Credit: Mateusz Rybczonec
+<script>// Credit: Mateusz Rybczonec
 
 const FULL_DASH_ARRAY = 283;
 const WARNING_THRESHOLD = 10;
