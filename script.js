@@ -1,4 +1,4 @@
-// Credit: Mateusz Rybczonec
+<script type"text/javascript>// Credit: Mateusz Rybczonec
 
 const FULL_DASH_ARRAY = 283;
 const WARNING_THRESHOLD = 10;
@@ -113,3 +113,4 @@ function setCircleDasharray() {
     .getElementById("base-timer-path-remaining")
     .setAttribute("stroke-dasharray", circleDasharray);
 }
+</script>
